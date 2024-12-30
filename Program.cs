@@ -14,5 +14,5 @@ using Facade = DesignPatterns.Patterns.Structural.Facade;
 using Flyweight = DesignPatterns.Patterns.Structural.Flyweight;
 using Proxy = DesignPatterns.Patterns.Structural.Proxy;
 
-new Builder.Client().Main();
+new Adapter.Client().Main();
 
